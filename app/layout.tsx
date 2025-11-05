@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
-import './globals.css'
+import import '../src/app/globals.css'
+
 
 export const metadata: Metadata = {
   title: 'MEIZap - Assistente Virtual para MEIs',
